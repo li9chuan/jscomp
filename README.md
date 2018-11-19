@@ -1,5 +1,5 @@
 
-##简介
+## 简介
 
 * 压缩白鹭引擎发布生成HTML5的js代码，稍事修改其它引擎同理。
 
@@ -10,7 +10,7 @@
 * 加载顺序  index.html -> zlib.min.js -> game.cfg -> enter game
 
 
-##文件
+## 文件
 
 
 * compress.py    
@@ -29,7 +29,7 @@
 
 
 
-##目录参考
+## 目录参考
 * 发布后可删除js文件夹，以及mainfest.json。
 
 
@@ -39,7 +39,7 @@
 
 ---
 
-##Introduction
+## Introduction
 
 * compression egret engine generates HTML5 js code, slightly modify other engines to do the same.
 
@@ -49,7 +49,7 @@
 
 * load order index.html -> zlib.min.js -> game.cfg -> enter game
 
-##Files
+## Files
 
 
 * compress.py    
@@ -67,7 +67,7 @@
 
 
 
-##Directory reference
+## Directory reference
 * after publishing, you can delete the js folder and mainfest.json.
 
 

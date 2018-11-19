@@ -7,7 +7,7 @@
 
 * 实际效果可先使用压缩工具zip本地代码预览。 压缩掉大概80%
 
-* 加载顺序  index.html -> zlib.min.js -> game.cfg -> enter game
+* 加载顺序  index.html -> zlib.min.js -> game.cfg
 
 
 ## 文件
@@ -47,7 +47,7 @@
 
 * the actual effect can be previewed using the compression tool zip native code.
 
-* load order index.html -> zlib.min.js -> game.cfg -> enter game
+* load order index.html -> zlib.min.js -> game.cfg
 
 ## Files
 

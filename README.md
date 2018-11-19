@@ -19,7 +19,7 @@
 
 
 * zlib.min.js      17.4k
-    *  文件比jszip.min小十几倍。
+    *  文件比新版本的jszip.min小十几倍。
     *  可直接操作缓冲区。
 
 
@@ -58,7 +58,7 @@
 
 
 * zlib.min.js      17.4k
-    *  the file is ten times smaller than jszip.min.
+    *  the file is ten times smaller than the new version of jszip.min.
     *  the buffer can be manipulated directly.
 
 
